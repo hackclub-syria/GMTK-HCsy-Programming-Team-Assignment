@@ -3,14 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Logic
-  - Player Data
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - BIrd
+  - 
   - Water
   - UI
   - 
@@ -40,9 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: UI
-    uniqueID: 269079221
-    locked: 1
   - name: Default
     uniqueID: 0
-    locked: 1
+    locked: 0
